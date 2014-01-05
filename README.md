@@ -1,7 +1,7 @@
 express-views-dom-layouts
 ==========================
 
-Layouts support for [express-views-dom], the DOM view engine for [Express](http://expressjs.com/).
+Layouts support for [express-views-dom], the DOM view engine for [Express][express].
 
 Lets you define and override blocks by extending other views as layouts.
 
@@ -80,4 +80,5 @@ Results in:
 </html>
 ```
 
+[express]: http://expressjs.com/
 [express-views-dom]: https://github.com/AndersDJohnson/express-views-dom
